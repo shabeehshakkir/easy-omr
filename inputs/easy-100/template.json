@@ -220,7 +220,7 @@
 "MCQBlock1d2": {
       "fieldType": "QTYPE_MCQ4",
       "fieldLabels": [
-        "q86..95"
+        "q86..90"
       ],
       "emptyValue": "unmarked",
       "bubblesGap": 54,
@@ -228,19 +228,6 @@
       "origin": [
         970,
         1037
-      ]
-    },
-"MCQBlock1d3": {
-      "fieldType": "QTYPE_MCQ4",
-      "fieldLabels": [
-        "q96..100"
-      ],
-      "emptyValue": "unmarked",
-      "bubblesGap": 54,
-      "labelsGap": 38,
-      "origin": [
-        970,
-        1415
       ]
     }
   }
