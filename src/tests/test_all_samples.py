@@ -30,7 +30,7 @@ def run_sample(mocker, sample_path):
     return sample_outputs
 
 
-EXT = "*.csv"
+EXT = "*.json"
 
 
 def extract_sample_outputs(output_dir):

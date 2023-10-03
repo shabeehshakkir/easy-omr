@@ -105,6 +105,19 @@
       "fieldLabels": [
         "roll1..7"
       ]
+    },
+    "MCQBlock1a1": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": [
+        "q1..10"
+      ],
+      "emptyValue": "unmarked",
+      "bubblesGap": 48,
+      "labelsGap": 27,
+      "origin": [
+        89,
+        441
+      ]
     }
   }
 }
