@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="732354f8-2590-40ce-96c2-cdb5083aa184" name="Changes" comment="90- Crop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2VYmm6tfshXlpx3zCcgFVPFp4DP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/shabeehshakkir/omr/OMRChecker/inputs/easy-100&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -63,6 +72,7 @@
       <workItem from="1696173710193" duration="6376000" />
       <workItem from="1696293844732" duration="826000" />
       <workItem from="1696294782937" duration="2578000" />
+      <workItem from="1696322555333" duration="2019000" />
     </task>
     <task id="LOCAL-00001" summary="90- initial">
       <option name="closed" value="true" />
