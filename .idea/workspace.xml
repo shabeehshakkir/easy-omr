@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="732354f8-2590-40ce-96c2-cdb5083aa184" name="Changes" comment="90- initial">
+      <change afterPath="$PROJECT_DIR$/inputs/easy-100/photo_2023-11-14_13-31-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OMRChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OMRChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/easy-100/Easy Entrance OMR- 90 m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/easy-100/Easy Entrance OMR- 90-m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/easy-100/Easy Entrance OMR- 90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/easy-100/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/inputs/easy-100/config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inputs/easy-100/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/inputs/easy-100/template.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90 m2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90 m2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90-m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90-m.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/easy-100/CheckedOMRs/Easy Entrance OMR- 90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/easy-100/Manual/ErrorFiles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/easy-100/Manual/ErrorFiles.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,26 +32,30 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VYmm6tfshXlpx3zCcgFVPFp4DP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/shabeehshakkir/omr/OMRChecker/inputs/easy-100&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/shabeehshakkir/omr/OMRChecker/inputs/easy-100",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inputs/easy-100" />
@@ -63,6 +79,7 @@
       <workItem from="1696173710193" duration="6376000" />
       <workItem from="1696293844732" duration="826000" />
       <workItem from="1696294782937" duration="2449000" />
+      <workItem from="1699944003799" duration="5069000" />
     </task>
     <task id="LOCAL-00001" summary="90- initial">
       <option name="closed" value="true" />
@@ -90,6 +107,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="90- initial" />
     <option name="LAST_COMMIT_MESSAGE" value="90- initial" />
   </component>

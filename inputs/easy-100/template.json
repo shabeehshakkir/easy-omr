@@ -9,6 +9,13 @@
   ],
   "preProcessors": [
     {
+      "name": "CropOnMarkers",
+      "options": {
+        "relativePath": "omr_marker.jpg",
+        "sheetToMarkerWidthRatio": 17
+      }
+    },
+    {
       "name": "Levels",
       "options": {
         "low": 0.3,
@@ -23,13 +30,6 @@
           3
         ],
         "sigmaX": 0
-      }
-    },
-    {
-      "name": "CropOnMarkers",
-      "options": {
-        "relativePath": "omr_marker.jpg",
-        "sheetToMarkerWidthRatio": 17
       }
     }
   ],
